@@ -1,0 +1,18 @@
+﻿  Board.cpp
+D:\ITU\VS community\SHOGI1\SHOGI1\Board.cpp(217,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ITU\VS community\SHOGI1\SHOGI1\Board.cpp(226,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ITU\VS community\SHOGI1\SHOGI1\Board.cpp(234,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ITU\VS community\SHOGI1\SHOGI1\Board.cpp(242,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ITU\VS community\SHOGI1\SHOGI1\Board.cpp(250,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ITU\VS community\SHOGI1\SHOGI1\Board.cpp(258,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ITU\VS community\SHOGI1\SHOGI1\Board.cpp(266,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ITU\VS community\SHOGI1\SHOGI1\Board.cpp(280,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ITU\VS community\SHOGI1\SHOGI1\Board.cpp(289,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ITU\VS community\SHOGI1\SHOGI1\Board.cpp(297,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ITU\VS community\SHOGI1\SHOGI1\Board.cpp(305,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ITU\VS community\SHOGI1\SHOGI1\Board.cpp(313,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ITU\VS community\SHOGI1\SHOGI1\Board.cpp(321,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ITU\VS community\SHOGI1\SHOGI1\Board.cpp(330,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  SHOGI1.vcxproj -> D:\ITU\VS community\SHOGI1\x64\Debug\SHOGI1.exe
+  D:\ITU\VS community\SHOGI1\packages\SFML-cpp.redist.2.5.1.1\build\native\bin\x64\Debug\openal32.dll
+  1 File(s) copied
